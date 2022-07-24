@@ -1,0 +1,37 @@
+(https://ineuron.ai)Community Classes C language Assignment No3
+
+Q1. What are the primitive data types in C Language?
+Ans:- int,char,float,double,void are Primitive data types in C language.
+
+Q2. What kind of statements can be written outside the function body?
+Ans:- Declaration Statements can be written outside the function body.
+
+Q3. What is the size of float type variable?
+Ans:- float type variable is of the 4 bytes.
+
+Q4. What is the value of an uninitialised variable?
+Ans:- Value of unintialised variable is The Garbage value.
+
+Q5. What is the difference between float and double?
+Ans:-float type variable Takes 4 bytes space in Memory And Double Type variable Takes 8 bytes space in Memory. Variable Value Stored in Double type variable is more precise than value stored in float type variable because Double type variable Takes more space in memory to store Large values precisely.
+Q6. What is the full form of ASCII?
+Ans:- American Standard Code for information interchange.
+
+Q7.What is the difference between a keyword and a function?
+Ans:- Keywords are Predefined Words Having predefined meaning for Compiler And Function is a block of statements And Function Should have Unique Name to be given according to its working.And After its Name Parentheses are used and return type of function before function name is used.
+
+Q8. Explore the use of type modifiers in C language.
+Ans:-in C language There Are Two types of Type modifiers:-
+  (i) Size modifiers - long,short
+  (ii) Sign modifiers - signed,unsigned
+Size modifiers are used with data types to increase or decrease their size. We can use long type modifier with double data type to increase its max range of Values that it can handle along with its size of variable in memory.
+
+Sign modifiers Are used when we need Values of varible only without sign or with sign means we need negative value or positive values by default data type is of signed But we can use unsigned type modifier with data types for using unsigned values of variable this will increase the range of values of data type Along with using no sign values.
+
+Q9. Can you assign a character constant in an int variable?
+Ans:- Yes You can Assign a character constant in an int variable. by this integer value(in ASCII) of that character constant will be stored in int variable.
+
+Q10. State the following statement as true or false -”Every block of code is a function”.
+Ans:- False, Every block of code can't be a function it can be block of other conditional statements.
+
+#Thanks
